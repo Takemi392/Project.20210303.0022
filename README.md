@@ -1,5 +1,5 @@
 # Overview
-Desktop.iniから不要な項目を消したくて作った。
+Desktop.iniから不要な項目を消したくて作った。  
 主にWindowsUpdateのたびに日本語表記になるフォルダへの対策用。
 
 ## Development
