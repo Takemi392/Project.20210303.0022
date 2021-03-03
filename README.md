@@ -1,2 +1,2 @@
 # Project.20210303.0022
-DesktopIniExcludeUnnecessaryItems
+Desktop.ini Exclude Unnecessary Items
