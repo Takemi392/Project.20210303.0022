@@ -3,9 +3,9 @@ Desktop.iniから不要な項目を消したくて作った。
 主にWindowsUpdateのたびに日本語表記になるフォルダへの対策用。
 
 ## Development
-+ Windows 10 Pro
-+ Visual Studio 2019
-+ .Net 5
++ Windows 11 Pro
++ Visual Studio 2022
++ .Net 7
 
 ## Install / Uninstall
 No Installer
