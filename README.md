@@ -5,7 +5,7 @@ Desktop.iniから不要な項目を消したくて作った。
 ## Development
 + Windows 11 Pro
 + Visual Studio 2022
-+ .Net 7
++ .Net 8.0
 
 ## Install / Uninstall
 No Installer
@@ -20,4 +20,4 @@ Configuration.json
 [Takemi392](https://github.com/Takemi392)
 
 ## LastUpdated
-2021/03/03 21:58
+2024/01/23 02:17
